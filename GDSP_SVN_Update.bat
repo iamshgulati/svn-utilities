@@ -5,7 +5,8 @@ echo == Initiating system instance variables...
 echo. -- Setting the variables...
 set SOURCE=C:\Data\CGI\Projects\Vodafone\GDSP
 set SVN=C:\Program Files\TortoiseSVN\bin
-set CLOSEONEND_LEVEL=2
+rem set CLOSEONEND_LEVEL=2
+set CLOSEONEND_LEVEL=0
 
 echo. %SOURCE%
 echo. %SVN%
